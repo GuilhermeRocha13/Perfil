@@ -1,4 +1,4 @@
-## Olá meu nome é Guilherme Rocha, sou estudante de Sistemas da Informação na PUC Minas.
+## Olá meu nome é Guilherme Rocha, estou cursando Sistemas da Informação na PUC Minas.
 
   
 <div>
