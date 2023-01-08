@@ -1,10 +1,10 @@
-## Olá meu nome é Guilherme Rocha, estudante de Sistemas de Informação.
+## Olá meu nome é Guilherme Rocha, sou estudante de Sistemas da Informação na PUC Minas.
 
   
 <div>
   
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRocha13&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRocha13&layout=compact&langs_count=16&theme=darcula"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRocha13&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRocha13&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
 
