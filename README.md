@@ -1,4 +1,5 @@
-## Olá meu nome é Guilherme Rocha, estudante de Técnologia.
+## Olá meu nome é Guilherme Rocha, estudante de Sistemas de Informação.
+
   
 <div>
   
