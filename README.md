@@ -1,11 +1,8 @@
 ## Olá meu nome é Guilherme Rocha, estou cursando Sistemas da Informação na PUC Minas.
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRocha13)](https://github.com/GuilhermeRocha13/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRocha13&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRocha13&theme=material-palenight)](https://github.com/GuilhermeRocha13/github-readme-stats)
  
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRocha13)](https://github.com/GuilhermeRocha13/github-readme-stats)
-  
-</div>
 
 <br>
 
