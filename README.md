@@ -1,8 +1,6 @@
 ## Olá meu nome é Guilherme Rocha, estou cursando Sistemas da Informação na PUC Minas.
 
 <div>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeRocha13&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRocha13&theme=midnight-purple"/>
 </div>
 
