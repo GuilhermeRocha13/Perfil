@@ -8,12 +8,14 @@
 
 ## Estou aprendendo
 <div align="left">
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" width="40" heigth="40">  
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" width="40" heigth="40">          
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" width="40" heigth="40">  
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="40" heigth="40">
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" width="40" height="40" margin="5">
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" heigth="40">
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" width="40" heigth="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" margin="5">
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azuredevops/azuredevops-original.svg" width="40" height="40">
+
+
   
 </div>
 
